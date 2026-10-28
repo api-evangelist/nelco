@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nelco is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nelcosolutions.com/
+Nelco partners with over 100 software companies to provide compatible and compliant tax forms and electronic filing solutions. As your software’s authorized partner, Nelco offers a wide selection of W‑2, 1099, and other tax documents, ensuring users can file quickly and accurately. With a 100% satisfaction guarantee and a focus on saving time, Nelco helps software vendors integrate seamless filing capabilities for their customers.
+
+**Areas:** Tax Forms · Software Integration · Electronic Filing · Compliance · Partner
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nelcosolutions.com/)
+- [Support](https://www.nelcosolutions.com/contact-us/)
+- [Terms of service](https://www.nelcosolutions.com/terms-of-use/)
+- [Privacy policy](https://www.nelcosolutions.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nelco/](https://apis.io/providers/nelco/).
